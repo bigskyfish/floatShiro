@@ -10,7 +10,7 @@ public class User {
 
     private Integer uid;
 
-    private String uname;
+    private String username;
 
     private String password;
 
@@ -24,12 +24,12 @@ public class User {
         this.uid = uid;
     }
 
-    public String getUname() {
-        return uname;
+    public String getUsername() {
+        return username;
     }
 
-    public void setUname(String uname) {
-        this.uname = uname;
+    public void setUsername(String username) {
+        this.username = username;
     }
 
     public String getPassword() {

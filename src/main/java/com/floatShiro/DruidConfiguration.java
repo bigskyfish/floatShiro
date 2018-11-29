@@ -1,4 +1,4 @@
-package com.mmall.demo2;
+package com.floatShiro;
 
 import com.alibaba.druid.support.http.StatViewServlet;
 import com.alibaba.druid.support.http.WebStatFilter;
